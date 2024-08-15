@@ -17,6 +17,17 @@ Pyhon
 
 # Python Analysis
 
+In Python I used such libraries as Pandas and Matplotlib for data manipulation and data visualization.
+I used python to find out the following questions:
+Total transactions by month
+Total transactions by day
+Total transactions by hour
+Total transactions by store
+Total revenue by month
+Total transactions by product category
+The best-selling product
+
+
 # MySql
 For this project I used star schema data modeling technique and classified dataset into dimensions tables and fact table.
 # Tableau analysis 
