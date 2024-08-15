@@ -33,7 +33,9 @@ The following Key Performance Indicators (KPIs) are provided in dashboards:
   	
     Min and max values 
 5.	Total Quantity
+   
     Percentage difference in quantity vs previous month
+  	
     Min and max values 
 
 Sales analysis
@@ -41,5 +43,24 @@ Sales analysis
 2.	Follow sales trend over the period
 3.	Monitor the best-selling products.
 4.	Monitor the peak hour and days when occurs the most of transactions
+
+Insights:
+
+June saw the highest number of orders, generating $166k, with an average sales of $5.5k across all stores. 
+In contrast, February had the lowest number of orders and revenue, totaling $76k, with an average sales of $2.7k across all stores reflecting a 6.77% decrease compared to the previous month.
+Revenue across the stores is relatively consistent, with Hell's Kitchen generating $236,511, Astoria generating $232,243, and Lower Manhattan generating $230,057.
+
+The best-selling products are primarily in the coffee and tea categories. The most popular items include:
+•	Barista Espresso
+•	Brewed Chai Tea
+•	Hot Chocolate
+•	Gourmet Brewed Coffee
+•	Brewed Black Tea
+•	Brewed Herbal Tea
+
+In terms of transaction density, Friday ranks highest in total transactions, followed by Thursday and Monday.
+
+The peak transaction times are between 8 a.m. and 11 a.m., with most sales occurring on weekdays.
+
 
 # Tableau Links
