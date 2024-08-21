@@ -17,9 +17,9 @@ Pyhon
 
 # Python Analysis
 
-In Python I used such libraries as Pandas and Matplotlib for data manipulation and data visualization.
+In Python, I utilized libraries like Pandas for data manipulation and Matplotlib for data visualization.
 
-I used python to find out the following questions:
+I used Python to answer the following questions:
 
 Total transactions by month
 
