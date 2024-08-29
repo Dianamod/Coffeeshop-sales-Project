@@ -13,7 +13,7 @@ MySql
 ![image](https://github.com/Dianamod/Projects/assets/171150402/98c373c3-424f-45cb-b03a-6d40f765b584)
 Tableau
 
-![завантаження](https://github.com/user-attachments/assets/5e9c6f81-55c0-4258-beda-a02f87b3a8ec)
+![image](https://github.com/user-attachments/assets/80b2dab3-d158-4f0b-9875-e79871d771fa)
 Python
 
 # Python Analysis
