@@ -22,19 +22,20 @@ In Python, I utilized libraries like Pandas for data manipulation and Matplotlib
 
 I used Python to answer the following questions:
 
-Total transactions by month
+•	Total transactions by month
 
-Total transactions by day
+•	Total transactions by day
 
-Total transactions by hour
+•	Total transactions by hour
 
-Total transactions by store
+•	Total transactions by store
 
-Total revenue by month
+•	Total revenue by month
 
-Total transactions by product category
+•	Total transactions by product category
 
-The best-selling product
+•	The best-selling product
+
 
 
 # MySql
