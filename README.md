@@ -13,7 +13,8 @@ MySql
 ![image](https://github.com/Dianamod/Projects/assets/171150402/98c373c3-424f-45cb-b03a-6d40f765b584)
 Tableau
 
-Pyhon
+![завантаження](https://github.com/user-attachments/assets/5e9c6f81-55c0-4258-beda-a02f87b3a8ec)
+Python
 
 # Python Analysis
 
@@ -82,4 +83,4 @@ In terms of transaction density, Friday ranks highest in total transactions, fol
 The peak transaction times are between 8 a.m. and 11 a.m., with most sales occurring on weekdays.
 
 
-# Tableau Links
+# Tableau Link
