@@ -13,7 +13,7 @@ df = pd.read_csv(file_path)
 print(df.head())
 
 engine = create_engine(
-    "mysql+mysqlconnector://root:Dianatsubera_1991!@localhost:3306/test")
+    "mysql+mysqlconnector://root:---!@localhost:---")
 
 
 file_path = 'Coffee Shop Sales.csv'
